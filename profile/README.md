@@ -9,6 +9,6 @@ Our client libraries for Python and Node.js are open source and can be found in 
 **Links**
 
 * [CausaDB Examples](https://github.com/causalabs/causadb-examples) - Public examples repo for end users.
-* [CausaDB Python](https://github.com/causalabs/causadb-python) - Python client for CausaDB (could be open sourced).
-* [CausaDB Node](https://github.com/causalabs/causadb-node) - Node client for CausaDB (could be open sourced).
-* [CausaDB Docs](https://github.com/causalabs/causadb-docs) - Documentation site for CausaDB (could be open sourced).
+* [CausaDB Python](https://github.com/causalabs/causadb-python) - Python client for CausaDB.
+* [CausaDB Node](https://github.com/causalabs/causadb-node) - Node client for CausaDB.
+* [CausaDB Docs](https://github.com/causalabs/causadb-docs) - Documentation site for CausaDB.
